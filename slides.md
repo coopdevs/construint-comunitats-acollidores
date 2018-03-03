@@ -1,3 +1,5 @@
+theme: Fira, 3
+
 # Construint comunitats acollidores
 
 ---
@@ -8,10 +10,38 @@ Pau Pérez
 
 * a [Coopdevs](http://coopdevs.org/)
 
-![50% right](images/coopdevs.jpg)
+![50% right](images/coopdevs_logo.jpg)
 
 [github.com/coopdevs](https://github.com/coopdevs)
 [community.coopdevs.org](http://community.coopdevs.org/)
+
+---
+
+![](images/coopdevs.jpg)
+
+[.footer: Coopdevs]
+
+---
+
+## Katuma
+
+Sí home, els que fan allò de consum de proximitat
+
+![right](images/katuma.png)
+
+---
+
+# Ajudeu-nos al matchfunding!
+
+[goteo.org/project/katuma](goteo.org/project/katuma)
+
+---
+
+## Tecnologia
+
+![](images/technology.jpg)
+
+[.footer: Photo by Johannes Plenio on Unsplash]
 
 ---
 
@@ -21,27 +51,9 @@ Reusem i desenvolupem codi de manera col·laborativa
 
 ---
 
-## Git
+## GitHub & GitLab
 
-Sistema distribuït de control de versions
-
-* Commits
-* Branques
-* Repositoris
-
-![right](images/git.png)
-
----
-
-## Social coding
-
-El treball en comunitat que es construeix sobre el software
-
----
-
-## Git*
-
-Plataforma de desenvolupament software
+Plataformes de desenvolupament de software
 
 * Allotjament de repositoris
 * Revisió del codi
@@ -49,64 +61,103 @@ Plataforma de desenvolupament software
 * *Social coding*
 * Llicència*
 
----
-
-## GitLab
-
-* Allotjament de repositoris
-* Revisió del codi
-* Gestió del projecte
-* *Social coding*
-* *Codi Obert*
+![right](images/social_coding.jpg)
 
 ---
 
-## Humans
+## Social coding
 
-El problema són els humans
-comunicació
+El treball en comunitat que es construeix sobre el software
 
----
-
-Ens costa comunicar idees abstractes
-
----
-
-Ens costa estructura idees
-
----
-
-### Sentiments
-
-Els humans tenen sentiments
-
----
-
-### Sentiments
-
-També tenen estat d'ànim
-
----
-
-### Sentiments
-
-Donar les gràcies
+![](images/github.png)
 
 ---
 
 ## Simbiosi
 
-Contribuïdor dóna
-  * aprèn (majoria de casos)
-  * se sent realitzat
+![](images/simbiosi.jpg)
 
-Projecte avança feina
+[.footer: Photo by Larm Rmah on Unsplash]
+
+---
+
+## Simbiosi
+
+Projecte & Contribuïdor
+
+---
+
+## Simbiosi 
+
+Projecte amplia els seus recursos humans
+
+---
+
+## Simbiosi
+
+Contribuïdor aprèn i/o fa CV
+
+---
+
+## Humans
+
+![](images/atomic_ant.jpg)
+
+---
+
+## Humans
+
+Els projectes els fan persones
+
+---
+
+### Humans
+
+Tenen sentiments i ànim
+
+![fit right](images/thanks.png)
+
+---
+
+### Humans
+
+Tenen sentiments i ànim
+
+![150% right](images/gracies.png)
+
+---
+
+### Humans
+
+Dóna les gràcies
+
+![fit right](images/knoopx.png)
+
+---
+
+## Humans
+
+Ens costa estructurar i comunicar idees abstractes
 
 ---
 
 ## Organització
 
-Mantenir llistat d'issues *perfectament* detallats
+![](images/agile.jpg)
+
+[.footer: Photo by Patrick Perkins on Unsplash]
+
+---
+
+## Organització
+
+Mantenir llistat d'*issues* perfectament detallats
+
+![50% right](images/issues_list.png)
+
+---
+
+![fit](images/plantilla.png)
 
 ---
 
@@ -114,13 +165,37 @@ Mantenir llistat d'issues *perfectament* detallats
 
 Hi ha tasques més enllà del software
 
-![right](images/trello.png)
+![50% right](images/trello.png)
 
 ---
 
-## Organització
+Software de gestió de projectes
 
-Tingues una vista d'ocell amb una eina de gestió de projectes
+![fit](images/gestio.png)
+
+---
+
+## Àgil i obert
+
+![](images/agil_obert.jpg)
+
+[.footer: Photo by Erik Odiin on Unsplash]
+
+---
+
+## Àgil i obert
+
+*Desenvolupament veloç i concurrent*
+=>
+Efectivitat i felicitat
+
+---
+
+## Àgil i obert
+
+*Encoratjar, facilitar i acompanyar*
+=>
+Comunitats acollidores
 
 ---
 
@@ -132,13 +207,18 @@ Fes les coses aburrides i repetitives
 
 ## Processos
 
-Llavors, automatitza. No abans*
+```shell
+$ automatitza
+```
+
+[.footer: vigileu]
 
 ---
 
 ## Documentació
 
-Objectiu: que el projecte segueixi tot i que tu tinguis amnèsia
+El projecte ha de seguir
+tot i que tu tinguis amnèsia
 
 ---
 
@@ -149,16 +229,30 @@ Objectiu: que el projecte segueixi tot i que tu tinguis amnèsia
 
 ---
 
-## Code Review
+No emmagatzemis res al teu cap
 
-Acompanyar, tenint en compte que molta gent ve a aprendre i ho fan al temps lliure.
-
----
-
-## Testing
+![fit](images/documentacio.png)
 
 ---
 
-## Sales pitch
+Fes la documentació executable
 
-Ajudeu-nos a traduir [opensource.guide](www.opensource.guide)
+![](images/explosio.jpg)
+
+---
+
+## Preguntes
+
+![](images/carretera.jpg)
+
+[.footer: Photo by Matthias Heil on Unsplash]
+
+---
+
+Materials de la sessió a
+
+[https://github.com/coopdevs/construint-comunitats-acollidores](https://github.com/coopdevs/construint-comunitats-acollidores)
+
+---
+
+## Gràcies
