@@ -200,6 +200,10 @@ Comunitats acollidores
 
 ---
 
+![fit](images/comunitat.png)
+
+---
+
 ## Processos
 
 Fes les coses aburrides i repetitives
