@@ -137,7 +137,8 @@ Dóna les gràcies
 
 ## Humans
 
-Ens costa estructurar i comunicar idees abstractes
+Ens costa estructurar i
+comunicar idees abstractes
 
 ---
 
